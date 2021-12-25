@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vikrant&#39;s Portfolio on Vikrant Tyagi</title>
+    <link>https://Vikranttyagi95.github.io/vikrant_portfolio/</link>
+    <description>Recent content in Vikrant&#39;s Portfolio on Vikrant Tyagi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Dec 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://Vikranttyagi95.github.io/vikrant_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-1: Hacker news top articles scraper</title>
+      <link>https://Vikranttyagi95.github.io/vikrant_portfolio/post/project-1/</link>
+      <pubDate>Thu, 09 Dec 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://Vikranttyagi95.github.io/vikrant_portfolio/post/project-1/</guid>
+      <description> In this project, I have created a python script which scrapes the data from the hacker news home page. The script scrapes the data off the first 2 pages of the Hacker news home page about the best articles which have more than 100 votes. The data which is scraped and later stored in a csv contains columns for &amp;lsquo;Title&amp;rsquo;, &amp;lsquo;Links&amp;rsquo; and &amp;lsquo;Votes&amp;rsquo; for the no of votes.  Libraries used  requests BeautifulSoup4 pandas pprint  Link to Github Repository  </description>
+    </item>
+    
+    <item>
+      <title>Project-2: A website using Flask</title>
+      <link>https://Vikranttyagi95.github.io/vikrant_portfolio/post/project-2/</link>
+      <pubDate>Sun, 21 Nov 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://Vikranttyagi95.github.io/vikrant_portfolio/post/project-2/</guid>
+      <description> In this project, I have built a website using python web framework &amp;ldquo;Flask&amp;rdquo; on the backend. The website has a home page, works page, about page and contact page. On the contact page visitors can enter their email and message and these are stored in a csv file on the backend. After building it i deployed it on pythonanywhere.com  Link to Github Repository  </description>
+    </item>
+    
+    <item>
+      <title>Project-3: A Password Checker</title>
+      <link>https://Vikranttyagi95.github.io/vikrant_portfolio/post/project-3/</link>
+      <pubDate>Mon, 11 Oct 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://Vikranttyagi95.github.io/vikrant_portfolio/post/project-3/</guid>
+      <description>In this project, I have created a Python script that reads a bunch of passwords from the text file. To check whether the password has been compromised in attack before. An API call is made with the first 5 characters of hashed version of the given password All the passwords which have matching first 5 characters are fetched. They are then compared with the remaining characters of the hashed password to see if there exists a match.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Vikranttyagi95.github.io/vikrant_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Vikranttyagi95.github.io/vikrant_portfolio/contact/</guid>
+      <description>You can follow me here:
+   Platform Link     Twitter Link to Twitter   LinkedIn Link to LinkedIn   Github Link to Github    </description>
+    </item>
+    
+  </channel>
+</rss>
